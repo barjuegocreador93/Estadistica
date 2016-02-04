@@ -97,5 +97,5 @@ else:
 		i+=1
 	me=sumc/2
 
-print "la mediana es: ", mc
+print "la mediana es: ", me
 
