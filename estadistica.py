@@ -95,7 +95,7 @@ else:
 	while i<poblacion:
 		sumc += muestra[(i+1)/2]  
 		i+=1
-	me=sumc/2
+	me=sumc
 
 print "la mediana es: ", me
 
