@@ -3,7 +3,7 @@ Autor: Camilo Barbosa
 
 
 pruebas de escritorio:
-
+----
 
   Entre el numero de poblacion: 6
   
@@ -20,12 +20,19 @@ pruebas de escritorio:
   Entre la muesta 6: 5
   
   La media geometrica 1:  1
+  
   La media geometrica 2:  1
+  
   La media aritmetica es 1:  3.33333333333
+  
   La media aritmetica es 2:  20.0
+  
   La media cuadrada es 1:  3.6514837167
+  
   La media cuadrada es 2:  8.94427191
+  
   la mediana es:  23.0
+  
   
   ----------------------
 
