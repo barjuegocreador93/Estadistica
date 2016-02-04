@@ -2,8 +2,8 @@
 Autor: Camilo Barbosa
 
 
-pruebas de escritorio:
-----
+## pruebas de escritorio 1:
+
 
   Entre el numero de poblacion: 6
   
@@ -34,7 +34,7 @@ pruebas de escritorio:
   la mediana es:  23.0
   
   
-  ----------------------
+##  Prueba de escritorio 2:
 
   Entre el numero de poblacion: 8 
   
@@ -67,33 +67,35 @@ pruebas de escritorio:
   La media cuadrada es 2:  76.5963445603
   
   la mediana es:  187.0
------------
-Entre el numero de poblacion: 7
+  
+##  Prueba de escritorio 3:
 
-Entre la muesta 1: 2
-
-Entre la muesta 2: 4
-
-Entre la muesta 3: 5
-
-Entre la muesta 4: 3
-
-Entre la muesta 5: 1
-
-Entre la muesta 6: 5
-
-Entre la muesta 7: 9
-
-La media geometrica 1:  1
-
-La media geometrica 2:  1
-
-La media aritmetica es 1:  4.14285714286
-
-La media aritmetica es 2:  29.0
-
-La media cuadrada es 1:  4.79583152331
-
-La media cuadrada es 2:  12.6885775404
-
-la mediana es:  26.0
+  Entre el numero de poblacion: 7
+  
+  Entre la muesta 1: 2
+  
+  Entre la muesta 2: 4
+  
+  Entre la muesta 3: 5
+  
+  Entre la muesta 4: 3
+  
+  Entre la muesta 5: 1
+  
+  Entre la muesta 6: 5
+  
+  Entre la muesta 7: 9
+  
+  La media geometrica 1:  1
+  
+  La media geometrica 2:  1
+  
+  La media aritmetica es 1:  4.14285714286
+  
+  La media aritmetica es 2:  29.0
+  
+  La media cuadrada es 1:  4.79583152331
+  
+  La media cuadrada es 2:  12.6885775404
+  
+  la mediana es:  26.0
