@@ -82,3 +82,24 @@ mc=pow(sumc/poblacion,0.5)
 
 print "La media cuadrada es 2: ", mc
 
+
+#mediana:
+me=0.0
+if(poblacion % 2==0):
+	sumc=0.0
+	i=0
+	while i<poblacion:
+		sumc += (muestra[i/2]) + (muestra[(i/2)+ 1]) 
+		i+=1
+	me=sumc/2
+else:
+	sumc=0.0
+	i=0
+	while i<poblacion:
+		sumc += muestra[(i+1)/2]  
+		i+=1
+	me=sumc
+
+print "la mediana es: ", me
+
+
