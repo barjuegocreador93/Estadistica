@@ -13,21 +13,24 @@ while i<poblacion:
 
 #media geometrica 1:
 
-g=1
+g=1.0
 i=0
+raizPoblacion=1.0/poblacion;
+
 while i<poblacion:
-	g *= pow(muestra[i],1/poblacion)
+	g *= muestra[i]	
 	i+=1
+g=pow(g,raizPoblacion)
 
 print "La media geometrica 1: ",g
 
 #media geometrica 2:
-mulmP=1
+mulmP=1.0
 i=0
 while i<poblacion:
 	mulmP = mulmP * pow(muestra[i],poblacion)
 	i+=1
-g=pow(mulmP,1/poblacion)
+g=pow(mulmP,raizPoblacion)
 
 print "La media geometrica 2: ",g
 
@@ -78,24 +81,4 @@ while i<poblacion:
 mc=pow(sumc/poblacion,0.5)
 
 print "La media cuadrada es 2: ", mc
-
-
-#mediana:
-me=0.0
-if(poblacion % 2==0):
-	sumc=0.0
-	i=0
-	while i<poblacion:
-		sumc += (muestra[i/2]) + (muestra[(i/2)+ 1]) 
-		i+=1
-	me=sumc/2
-else:
-	sumc=0.0
-	i=0
-	while i<poblacion:
-		sumc += muestra[(i+1)/2]  
-		i+=1
-	me=sumc
-
-print "la mediana es: ", me
 
