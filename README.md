@@ -5,23 +5,23 @@ Autor: Camilo Barbosa
 ## pruebas de escritorio 1:
 
 
-  Entre el numero de poblacion: 6
+  Entre el numero de poblacion: 6 
   
   Entre la muesta 1: 2
   
   Entre la muesta 2: 4
   
   Entre la muesta 3: 5
-  
+
   Entre la muesta 4: 3
   
   Entre la muesta 5: 1
   
   Entre la muesta 6: 5
   
-  La media geometrica 1:  1
+  La media geometrica 1:  2.90419122184
   
-  La media geometrica 2:  1
+  La media geometrica 2:  600.0
   
   La media aritmetica es 1:  3.33333333333
   
@@ -32,15 +32,15 @@ Autor: Camilo Barbosa
   La media cuadrada es 2:  8.94427191
   
   la mediana es:  23.0
-  
+
   
 ##  Prueba de escritorio 2:
 
-  Entre el numero de poblacion: 8 
+  Entre el numero de poblacion: 8
   
   Entre la muesta 1: 2
   
-  Entre la muesta 2: 8
+  Entre la muesta 2: 5
   
   Entre la muesta 3: 36
   
@@ -54,19 +54,20 @@ Autor: Camilo Barbosa
   
   Entre la muesta 8: 25
   
-  La media geometrica 1:  1
+  La media geometrica 1:  15.7606040902
   
-  La media geometrica 2:  1
+  La media geometrica 2:  3807000000.0
   
-  La media aritmetica es 1:  23.125
+  La media aritmetica es 1:  22.75
   
-  La media aritmetica es 2:  185.0
+  La media aritmetica es 2:  182.0
   
-  La media cuadrada es 1:  27.0808973263
+  La media cuadrada es 1:  26.9907391525
   
-  La media cuadrada es 2:  76.5963445603
+  La media cuadrada es 2:  76.341338736
   
-  la mediana es:  187.0
+  la mediana es:  181.0
+
   
 ##  Prueba de escritorio 3:
 
@@ -86,9 +87,9 @@ Autor: Camilo Barbosa
   
   Entre la muesta 7: 9
   
-  La media geometrica 1:  1
+  La media geometrica 1:  3.41349372278
   
-  La media geometrica 2:  1
+  La media geometrica 2:  5400.0
   
   La media aritmetica es 1:  4.14285714286
   
@@ -99,3 +100,5 @@ Autor: Camilo Barbosa
   La media cuadrada es 2:  12.6885775404
   
   la mediana es:  26.0
+
+
